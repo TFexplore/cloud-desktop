@@ -25,6 +25,6 @@ function addItem() {
   background-color: rgba(25, 34, 44, 0.281);
   backdrop-filter: blur(10px);
   border-right: 1px solid rgba(204, 204, 204, 0.5);
-  z-index: 1000;
+  z-index: 100;
 }
 </style>
