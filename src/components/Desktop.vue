@@ -19,7 +19,6 @@
         <div>这是窗口 {{ window.title }} 的内容。</div>
       </Window>
       <slot></slot>
-      <button @click="openNewWindow" style="position: absolute; bottom: 10px; left: 10px; z-index: 2000;">打开新窗口</button>
    </div>
   </div>
 </template>
